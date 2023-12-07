@@ -1,5 +1,6 @@
 
-function cuadrado(){
-    const minumero=document.getElementById("input").value
-    alert(trabajo(minumero))
-}    let trabajo = (numero)=>numero *numero;
+function agregarPedidos (){
+    const pedido=document.getElementById("Pedidos").value;
+    
+    
+}
